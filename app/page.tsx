@@ -1,7 +1,4 @@
-"use client";
-
-import {useState} from "react";
-
+import About from "./about/page"
 
 export default function Home() {
 
