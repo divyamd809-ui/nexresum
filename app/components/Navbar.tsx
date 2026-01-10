@@ -24,7 +24,7 @@ export default function Navbar() {
             "path": "/"
         },
         {
-            "name":"mock interview"
+            "name":"mock interview",
             "path":"/"
         },
     ]
