@@ -23,6 +23,10 @@ export default function Navbar() {
             "name": "Contact",
             "path": "/"
         },
+        {
+            "name":"mock interview"
+            "path":"/"
+        },
     ]
 
 
